@@ -5,3 +5,4 @@ This is a small version of Jarvis based on the movie.
 pip install art
 pip install os-sys
 pip install datetime
+pip install playsound
