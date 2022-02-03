@@ -1,3 +1,4 @@
+#These packages must be installed via the cmd.
 pip install art
 pip install os-sys
 pip install datetime
